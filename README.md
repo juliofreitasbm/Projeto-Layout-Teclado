@@ -29,7 +29,7 @@ Destinado a usuários que digitam por longos períodos, especialmente aqueles qu
   ```
 
 ### Executando o Programa (Dentro da pasta backend)
-  ```sh
+  ```
   univorn main:app --reload
   ```
 
