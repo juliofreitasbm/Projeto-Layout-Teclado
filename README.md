@@ -33,6 +33,9 @@ Destinado a usuários que digitam por longos períodos, especialmente aqueles qu
   univorn main:app --reload
   ```
 
+### Frontend
+- Abra o arquivo `index.html` no navegador
+
 ## Estrutura das Classes
 ### `TextInput`
 - `process_text()`: Analisa o texto e conta caracteres, bigramas e trigramas.
